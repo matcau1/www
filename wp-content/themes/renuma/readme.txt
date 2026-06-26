@@ -1,0 +1,78 @@
+/*-----------------------------------------------------------------------------------
+ *
+ * Theme Name: Renuma
+ * Theme URI: https://renumawp.websitelayout.net/
+ * Author: Website Layout
+ * Author URI: https://www.websitelayout.net/
+ * Release Date: 27th May, 2022
+ * Version: 1.2
+ * Requirements: WordPress 6.2 or higher, PHP 8
+ * Compatibility: WordPress 6.6.2
+ * Last Update Date: 08th October, 2024
+ * Tags: alternative energy, ecology saving, electricity, environment, green energy, recycling, renewable energy, solar panels, solar panels installation, wind turbines, elementor, bio energy, hydro energy, thermal, wind energy, multipurpose etc.
+ *
+ * ----------------------------------------------------------------------------------- */
+
+--------------------------------------------------------------------------
+Readme - Please backup your theme pack files at first before you update the theme into the latest version
+--------------------------------------------------------------------------
+
+--------------------------------------------------------------------------
+Installation
+--------------------------------------------------------------------------
+
+ - In your admin panel, go to Appearance -> Themes and click the 'Add New' button.
+ - Choose renuma theme file and install.
+ - Click on the 'Activate' button to use your new theme right away.
+
+--------------------------------------------------------------------------
+Version v1.2 - 08th October, 2024
+--------------------------------------------------------------------------
+ 
+ - NEW: Demo - Home 04
+ - NEW: Demo - Home 05
+ - NEW: Demo - Home 06
+ - NEW: - WooCommerce
+ - NEW: - WPML Compatible
+ - NEW: - Smooth Scroll
+ - NEW: Dark Menu Added
+ - UPDATED: Header & Footer Settings Updated in the Theme Options
+ - UPDATED: Footer Design.
+ - UPDATED: Theme Options.
+ - UPDATED: Click to Top Button
+ - UPDATED: Counter
+ - UPDATED: Font Family.
+ - UPDATED: Logo size.
+ - UPDATED: Widgets.
+ - Elementor Through Design Options Added for Post Details.
+ - Elementor Through Design Options Added for Footers.
+ - Navigation Menu Design Updated.
+ - Compatible with Latest WordPress Version.
+ - Compatible with Latest Plugins.
+ 
+--------------------------------------------------------------------------
+Version v1.1 - 01st March, 2023
+--------------------------------------------------------------------------
+
+ - WordPress 6.x Supported.
+ - Compatible with Latest WordPress Version.
+ - Compatible with Latest Plugins.
+ - Added Post Sidebar Settings in the Theme Options.
+ - Elementor Through Design Options Added for Service Details, Portfolio Details.
+ - Added Blog Grid Options Pages.
+ - Added Portfolio Grid Options Pages.
+ - Added all the Widgets in One Place for Easy to Use.
+ - Updated Footer Design.
+ - Updated Theme Options.
+ - Added Font Family Options.
+ - Compatible with Latest Plugins.
+ - Widgets Updated.
+ - Minor Bug Fixed.
+ - Theme Design Updated.
+ - Documentation Updated.
+ 
+--------------------------------------------------------------------------
+Version v1.0 - 27th May, 2022
+--------------------------------------------------------------------------
+
+ - Initial release

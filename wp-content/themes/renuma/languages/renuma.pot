@@ -1,0 +1,1321 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: renuma\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-07 18:47+0530\n"
+"PO-Revision-Date: 2024-10-07 18:48+0530\n"
+"Last-Translator: WebsiteLayout <websitelayout3@gmail.com>\n"
+"Language-Team: WebsiteLayout <websitelayout3@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+
+#: ../404.php:32
+msgid "404"
+msgstr ""
+
+#: ../404.php:41
+msgid "Opps! Page Not Found"
+msgstr ""
+
+#: ../404.php:49
+msgid ""
+"We can’t find the page your are looking for. You can check out our help "
+"center or head back to homepage."
+msgstr ""
+
+#: ../404.php:54
+msgid "Back to Home"
+msgstr ""
+
+#: ../archive.php:24
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:26
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:26
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:28
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:28
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:30
+msgid "Archives"
+msgstr ""
+
+#: ../archive.php:75 ../author.php:63 ../category.php:64 ../index.php:95 ../search.php:57
+#: ../tag.php:60 ../page-templates/blog-grid-2-columns-left-sidebar.php:90
+#: ../page-templates/blog-grid-2-columns-right-sidebar.php:80
+#: ../page-templates/blog-grid-2-columns.php:76
+#: ../page-templates/blog-grid-3-columns.php:77
+msgid "0"
+msgstr ""
+
+#: ../archive.php:75 ../author.php:63 ../category.php:64 ../index.php:95 ../search.php:57
+#: ../tag.php:60 ../page-templates/blog-grid-2-columns-left-sidebar.php:90
+#: ../page-templates/blog-grid-2-columns-right-sidebar.php:80
+#: ../page-templates/blog-grid-2-columns.php:76
+#: ../page-templates/blog-grid-3-columns.php:77
+msgid "1"
+msgstr ""
+
+#: ../archive.php:75 ../author.php:63 ../category.php:64 ../index.php:95 ../search.php:57
+#: ../tag.php:60 ../page-templates/blog-grid-2-columns-left-sidebar.php:90
+#: ../page-templates/blog-grid-2-columns-right-sidebar.php:80
+#: ../page-templates/blog-grid-2-columns.php:76
+#: ../page-templates/blog-grid-3-columns.php:77
+msgid "%"
+msgstr ""
+
+#: ../archive.php:87 ../author.php:75 ../category.php:76 ../index.php:108 ../search.php:79
+#: ../tag.php:72 ../page-templates/blog-grid-2-columns-left-sidebar.php:104
+#: ../page-templates/blog-grid-2-columns-right-sidebar.php:94
+#: ../page-templates/blog-grid-2-columns.php:90
+#: ../page-templates/blog-grid-3-columns.php:91
+msgid "<i class = \"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: ../archive.php:88 ../author.php:76 ../category.php:77 ../index.php:109 ../search.php:80
+#: ../tag.php:73 ../page-templates/blog-grid-2-columns-left-sidebar.php:105
+#: ../page-templates/blog-grid-2-columns-right-sidebar.php:95
+#: ../page-templates/blog-grid-2-columns.php:91
+#: ../page-templates/blog-grid-3-columns.php:92
+msgid "<i class = \"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: ../author.php:21
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../category.php:21
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: ../comments.php:16 ../single.php:64
+msgid "0 Comments"
+msgstr ""
+
+#: ../comments.php:16 ../single.php:64
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:16 ../single.php:64
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:47
+msgid "Leave a comment"
+msgstr ""
+
+#: ../comments.php:51
+msgid "Your Name"
+msgstr ""
+
+#: ../comments.php:51
+msgid "Name is required."
+msgstr ""
+
+#: ../comments.php:56
+msgid "Your Email"
+msgstr ""
+
+#: ../comments.php:56
+msgid "Email is required."
+msgstr ""
+
+#: ../comments.php:63
+msgid "Write a comment"
+msgstr ""
+
+#: ../comments.php:63
+msgid "Please,leave us a message."
+msgstr ""
+
+#: ../comments.php:66
+msgid "Post a comment"
+msgstr ""
+
+#: ../functions.php:26
+msgid "Primary Navigation Menu."
+msgstr ""
+
+#: ../functions.php:41
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions.php:99
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../functions.php:101 ../functions.php:110 ../functions.php:121
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+#: ../functions.php:108
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../functions.php:119
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../functions.php:190
+msgid "One Click Demo Import"
+msgstr ""
+
+#: ../functions.php:195
+msgid "* Redux Framework"
+msgstr ""
+
+#: ../functions.php:200
+msgid "Classic Editor"
+msgstr ""
+
+#: ../functions.php:205
+msgid "Classic Widgets"
+msgstr ""
+
+#: ../functions.php:210
+msgid "Widget Importer & Exporter"
+msgstr ""
+
+#: ../functions.php:215
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../functions.php:220
+msgid "Customizer Export/Import"
+msgstr ""
+
+#: ../functions.php:225
+msgid "WP Maximum Execution Time Exceeded"
+msgstr ""
+
+#: ../functions.php:230
+msgid "Elementor"
+msgstr ""
+
+#: ../functions.php:235
+msgid "Renuma Common"
+msgstr ""
+
+#: ../functions.php:241
+msgid "Renuma Elementor"
+msgstr ""
+
+#: ../functions.php:263 ../framework/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:264 ../framework/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:265 ../framework/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:266 ../framework/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:267 ../framework/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:268 ../framework/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:269
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:270 ../framework/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:271 ../framework/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:272
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:273 ../framework/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:274
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:275 ../framework/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:276 ../framework/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:277 ../framework/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:278 ../framework/class-tgm-plugin-activation.php:394
+#: ../framework/class-tgm-plugin-activation.php:3250
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:279
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../index.php:27 index.php:45
+msgid "Blog"
+msgstr ""
+
+#: ../index.php:37 ../page.php:37 ../single.php:29 ../woocommerce.php:39
+#: ../page-templates/blog-grid-2-columns-left-sidebar.php:30
+#: ../page-templates/blog-grid-2-columns-right-sidebar.php:30
+#: ../page-templates/blog-grid-2-columns.php:30
+#: ../page-templates/blog-grid-3-columns.php:30
+msgid "Home"
+msgstr ""
+
+#: ../page.php:74 ../single.php:70
+msgid "Pages:"
+msgstr ""
+
+#: ../page.php:81
+msgid "<i class=\"ion-arrow-left-c\"></i> Previous Post"
+msgstr ""
+
+#: ../page.php:82
+msgid "Next Post <i class=\"ion-arrow-right-c\"></i>"
+msgstr ""
+
+#: ../search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../search.php:67
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../single.php:58
+msgid "Image"
+msgstr ""
+
+#: ../tag.php:18
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: ../framework/class-ocdi-importer.php:19 ../framework/class-ocdi-importer.php:26
+#: ../framework/class-ocdi-importer.php:32 ../framework/class-ocdi-importer.php:38
+#: ../framework/class-ocdi-importer.php:44 ../framework/class-ocdi-importer.php:50
+msgid "Import Renuma Theme Data"
+msgstr ""
+
+#: ../framework/class-ocdi-importer.php:20
+msgid "Home 1"
+msgstr ""
+
+#: ../framework/class-ocdi-importer.php:25
+msgid "Import Renuma Home 2"
+msgstr ""
+
+#: ../framework/class-ocdi-importer.php:31
+msgid "Import Renuma Home 3"
+msgstr ""
+
+#: ../framework/class-ocdi-importer.php:37
+msgid "Import Renuma Home 4"
+msgstr ""
+
+#: ../framework/class-ocdi-importer.php:43
+msgid "Import Renuma Home 5"
+msgstr ""
+
+#: ../framework/class-ocdi-importer.php:49
+msgid "Import Renuma Home 6"
+msgstr ""
+
+#: ../framework/class-ocdi-importer.php:75
+msgid "Import demo data of renuma."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/class-tgm-plugin-activation.php:393
+#: ../framework/class-tgm-plugin-activation.php:920
+#: ../framework/class-tgm-plugin-activation.php:2625
+#: ../framework/class-tgm-plugin-activation.php:3670
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:395
+#: ../framework/class-tgm-plugin-activation.php:3043
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1026
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1026
+#: ../framework/class-tgm-plugin-activation.php:1029
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1029
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1213
+#: ../framework/class-tgm-plugin-activation.php:3039
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2074
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2365
+msgid "Required"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2368
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2384
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2387
+msgid "External Source"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2390
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2407
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2411
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2413
+msgid "Active"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2419
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2422
+msgid "Requires Update"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2425
+msgid "Update recommended"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2434
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2480
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/class-tgm-plugin-activation.php:2484
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/class-tgm-plugin-activation.php:2488
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/class-tgm-plugin-activation.php:2492
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/class-tgm-plugin-activation.php:2574
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2582
+msgid "Installed version:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2590
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2602
+msgid "Available version:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2625
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2638
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2639
+msgid "Source"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2640
+msgid "Type"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2644
+msgid "Version"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2645
+msgid "Status"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2694
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2705
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2775
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2808
+msgid "Install"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2814
+msgid "Update"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2817
+msgid "Activate"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2848
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2891
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2999
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3025
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3249
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3589
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3592
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3598
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3601
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3603
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3606
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3609
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3611
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/wp_bootstrap_navwalker.php:366
+msgid "Add a menu"
+msgstr ""
+
+#: ../inc/template-functions.php:63
+msgid "Search"
+msgstr ""
+
+#: ../inc/template-functions.php:105
+msgid "Tags:"
+msgstr ""
+
+#: ../inc/theme-options.php:24 ../inc/theme-options.php:25
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/theme-options.php:128
+msgid "General Settings"
+msgstr ""
+
+#: ../inc/theme-options.php:134
+msgid "Dark Default Logo"
+msgstr ""
+
+#: ../inc/theme-options.php:138 ../inc/theme-options.php:149
+msgid "Upload your Logo Image, Recommended size 452 * 126"
+msgstr ""
+
+#: ../inc/theme-options.php:145
+msgid "Light Logo"
+msgstr ""
+
+#: ../inc/theme-options.php:155
+msgid "Page Loader"
+msgstr ""
+
+#: ../inc/theme-options.php:156
+msgid "Show page loader."
+msgstr ""
+
+#: ../inc/theme-options.php:162
+msgid "Header Topbar - Email ID & Phone Number"
+msgstr ""
+
+#: ../inc/theme-options.php:163
+msgid "Show topbar - Email ID & Phone Number."
+msgstr ""
+
+#: ../inc/theme-options.php:169
+msgid "Header Top Searchbar"
+msgstr ""
+
+#: ../inc/theme-options.php:170
+msgid "Show Top Searchbar"
+msgstr ""
+
+#: ../inc/theme-options.php:176
+msgid "Header Top Carticon"
+msgstr ""
+
+#: ../inc/theme-options.php:177
+msgid "Show Top Carticon"
+msgstr ""
+
+#: ../inc/theme-options.php:183
+msgid "Header Top Button"
+msgstr ""
+
+#: ../inc/theme-options.php:184
+msgid "Show Top Button"
+msgstr ""
+
+#: ../inc/theme-options.php:190
+msgid "Scroll to Top Button"
+msgstr ""
+
+#: ../inc/theme-options.php:191
+msgid "Show scroll to top button."
+msgstr ""
+
+#: ../inc/theme-options.php:197
+msgid "Set Cursor Helper"
+msgstr ""
+
+#: ../inc/theme-options.php:198
+msgid "Click Off to Default Cursor."
+msgstr ""
+
+#: ../inc/theme-options.php:209
+msgid "Header Settings"
+msgstr ""
+
+#: ../inc/theme-options.php:214
+msgid "Header Layout For Home01 & All Inner Pages"
+msgstr ""
+
+#: ../inc/theme-options.php:215
+msgid "Select a header layout for home01 & all inner pages."
+msgstr ""
+
+#: ../inc/theme-options.php:229
+msgid "Header Layout For Home02"
+msgstr ""
+
+#: ../inc/theme-options.php:230
+msgid "Select a header layout for home02."
+msgstr ""
+
+#: ../inc/theme-options.php:244
+msgid "Header Layout For Home03"
+msgstr ""
+
+#: ../inc/theme-options.php:245
+msgid "Select a header layout for home05."
+msgstr ""
+
+#: ../inc/theme-options.php:259
+msgid "Header Layout For Home04"
+msgstr ""
+
+#: ../inc/theme-options.php:260
+msgid "Select a header layout for home07."
+msgstr ""
+
+#: ../inc/theme-options.php:274
+msgid "Header Layout For Home05"
+msgstr ""
+
+#: ../inc/theme-options.php:275
+msgid "Select a header layout for home08."
+msgstr ""
+
+#: ../inc/theme-options.php:289
+msgid "Header Layout For Home06"
+msgstr ""
+
+#: ../inc/theme-options.php:290
+msgid "Select a header layout for home06."
+msgstr ""
+
+#: ../inc/theme-options.php:304
+msgid "Fixed Header"
+msgstr ""
+
+#: ../inc/theme-options.php:305
+msgid "Header will be fixed when applicable (Currently It is sticky header)."
+msgstr ""
+
+#: ../inc/theme-options.php:311
+msgid "Header Button"
+msgstr ""
+
+#: ../inc/theme-options.php:319
+msgid "Link Button"
+msgstr ""
+
+#: ../inc/theme-options.php:327
+msgid "Header Phone"
+msgstr ""
+
+#: ../inc/theme-options.php:335
+msgid "Header Mail"
+msgstr ""
+
+#: ../inc/theme-options.php:343
+msgid "Header Phone Link"
+msgstr ""
+
+#: ../inc/theme-options.php:351
+msgid "Header Mail Link"
+msgstr ""
+
+#: ../inc/theme-options.php:359
+msgid "Link Facebook"
+msgstr ""
+
+#: ../inc/theme-options.php:367
+msgid "Link Twitter"
+msgstr ""
+
+#: ../inc/theme-options.php:375
+msgid "Link Instagram"
+msgstr ""
+
+#: ../inc/theme-options.php:383
+msgid "Link YouTube"
+msgstr ""
+
+#: ../inc/theme-options.php:391
+msgid "Link Linkedin"
+msgstr ""
+
+#: ../inc/theme-options.php:399
+msgid "Link Tiktok"
+msgstr ""
+
+#: ../inc/theme-options.php:407
+msgid "Link Pinterest"
+msgstr ""
+
+#: ../inc/theme-options.php:420
+msgid "Footer Settings"
+msgstr ""
+
+#: ../inc/theme-options.php:425
+msgid "Footer Layout For All Inner Pages."
+msgstr ""
+
+#: ../inc/theme-options.php:426
+msgid "Select a footer layout for all inner pages."
+msgstr ""
+
+#: ../inc/theme-options.php:427 ../inc/theme-options.php:436
+#: ../inc/theme-options.php:445 ../inc/theme-options.php:454
+#: ../inc/theme-options.php:463 ../inc/theme-options.php:472
+#: ../inc/theme-options.php:481
+#, php-format
+msgid ""
+"To use this Option please %sClick Here%s to add your custom footer layout "
+"first."
+msgstr ""
+
+#: ../inc/theme-options.php:434
+msgid "Footer Layout For Home01"
+msgstr ""
+
+#: ../inc/theme-options.php:435
+msgid "Select a footer layout for home01."
+msgstr ""
+
+#: ../inc/theme-options.php:443
+msgid "Footer Layout For Home02"
+msgstr ""
+
+#: ../inc/theme-options.php:444
+msgid "Select a footer layout for home02."
+msgstr ""
+
+#: ../inc/theme-options.php:452
+msgid "Footer Layout For Home03"
+msgstr ""
+
+#: ../inc/theme-options.php:453
+msgid "Select a footer layout for home03."
+msgstr ""
+
+#: ../inc/theme-options.php:461
+msgid "Footer Layout For Home04"
+msgstr ""
+
+#: ../inc/theme-options.php:462
+msgid "Select a footer layout for home04."
+msgstr ""
+
+#: ../inc/theme-options.php:470
+msgid "Footer Layout For Home05"
+msgstr ""
+
+#: ../inc/theme-options.php:471
+msgid "Select a footer layout for home05."
+msgstr ""
+
+#: ../inc/theme-options.php:479
+msgid "Footer Layout For Home06"
+msgstr ""
+
+#: ../inc/theme-options.php:480
+msgid "Select a footer layout for home06."
+msgstr ""
+
+#: ../inc/theme-options.php:493
+msgid "Shop"
+msgstr ""
+
+#: ../inc/theme-options.php:500
+msgid "Shop Default Banner Image"
+msgstr ""
+
+#: ../inc/theme-options.php:504 ../inc/theme-options.php:587
+#: ../inc/theme-options.php:648
+msgid "Upload your Image"
+msgstr ""
+
+#: ../inc/theme-options.php:510
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../inc/theme-options.php:511
+msgid "Select a sidebar position for archive shop."
+msgstr ""
+
+#: ../inc/theme-options.php:513 ../inc/theme-options.php:547
+#: ../inc/theme-options.php:559
+msgid "Left"
+msgstr ""
+
+#: ../inc/theme-options.php:514 ../inc/theme-options.php:548
+#: ../inc/theme-options.php:560
+msgid "Right"
+msgstr ""
+
+#: ../inc/theme-options.php:515 ../inc/theme-options.php:549
+#: ../inc/theme-options.php:561
+msgid "Disabled"
+msgstr ""
+
+#: ../inc/theme-options.php:520
+msgid "Products displayed per page"
+msgstr ""
+
+#: ../inc/theme-options.php:523
+msgid "Number product to show"
+msgstr ""
+
+#: ../inc/theme-options.php:539
+msgid "Blog Settings"
+msgstr ""
+
+#: ../inc/theme-options.php:544
+msgid "Post Details Sidebar Position"
+msgstr ""
+
+#: ../inc/theme-options.php:545
+msgid "Select a sidebar position"
+msgstr ""
+
+#: ../inc/theme-options.php:556
+msgid "Sidebar Position For Blog Default, Archive, etc."
+msgstr ""
+
+#: ../inc/theme-options.php:557
+msgid "Sidebar position for blog default, archive, category, search, etc."
+msgstr ""
+
+#: ../inc/theme-options.php:568
+msgid "Blog Default Page Title"
+msgstr ""
+
+#: ../inc/theme-options.php:575
+msgid "Home Text on Breadcrumb"
+msgstr ""
+
+#: ../inc/theme-options.php:583
+msgid "Blog Default Banner Image"
+msgstr ""
+
+#: ../inc/theme-options.php:594
+msgid "Blog Details Banner Image"
+msgstr ""
+
+#: ../inc/theme-options.php:598
+msgid "Upload your Image Background"
+msgstr ""
+
+#: ../inc/theme-options.php:604
+msgid "Blog custom excerpt length"
+msgstr ""
+
+#: ../inc/theme-options.php:611
+msgid "Number of posts in blog grid page."
+msgstr ""
+
+#: ../inc/theme-options.php:619
+msgid "Tags"
+msgstr ""
+
+#: ../inc/theme-options.php:620
+msgid "Show tag names on single post."
+msgstr ""
+
+#: ../inc/theme-options.php:626
+msgid "Social Share"
+msgstr ""
+
+#: ../inc/theme-options.php:627
+msgid "Show social share on single post."
+msgstr ""
+
+#: ../inc/theme-options.php:638
+msgid "404 Settings"
+msgstr ""
+
+#: ../inc/theme-options.php:644
+msgid "404 Image"
+msgstr ""
+
+#: ../inc/theme-options.php:654
+msgid "404 title"
+msgstr ""
+
+#: ../inc/theme-options.php:661
+msgid "404 Subtitle"
+msgstr ""
+
+#: ../inc/theme-options.php:668
+msgid "404 Description"
+msgstr ""
+
+#: ../inc/theme-options.php:675
+msgid "404 Button"
+msgstr ""
+
+#: ../inc/theme-options.php:686
+msgid ""
+"Colors - After doing the color change, it is necessary to clear the cache of "
+"your browser."
+msgstr ""
+
+#: ../inc/theme-options.php:692
+msgid "Primary Color"
+msgstr ""
+
+#: ../inc/theme-options.php:699
+msgid "Secondary Color"
+msgstr ""
+
+#: ../inc/theme-options.php:706
+msgid "Dark Color"
+msgstr ""
+
+#: ../inc/theme-options.php:713
+msgid "Body Text Color"
+msgstr ""
+
+#: ../inc/theme-options.php:726
+msgid "Typography"
+msgstr ""
+
+#: ../inc/theme-options.php:732
+msgid "Body Default Font"
+msgstr ""
+
+#: ../inc/theme-options.php:734 ../inc/theme-options.php:760
+msgid "Default"
+msgstr ""
+
+#: ../inc/theme-options.php:735 ../inc/theme-options.php:761
+msgid "Google Font"
+msgstr ""
+
+#: ../inc/theme-options.php:742
+msgid "Body Google Font"
+msgstr ""
+
+#: ../inc/theme-options.php:743
+msgid "This will be the default font of your website."
+msgstr ""
+
+#: ../inc/theme-options.php:758
+msgid "Heading Default Font"
+msgstr ""
+
+#: ../inc/theme-options.php:768
+msgid "H1"
+msgstr ""
+
+#: ../inc/theme-options.php:769
+msgid "This will be the default font for all H1 tags of your website."
+msgstr ""
+
+#: ../inc/theme-options.php:782
+msgid "H2"
+msgstr ""
+
+#: ../inc/theme-options.php:783
+msgid "This will be the default font for all H2 tags of your website."
+msgstr ""
+
+#: ../inc/theme-options.php:796
+msgid "H3"
+msgstr ""
+
+#: ../inc/theme-options.php:797
+msgid "This will be the default font for all H3 tags of your website."
+msgstr ""
+
+#: ../inc/theme-options.php:810
+msgid "H4"
+msgstr ""
+
+#: ../inc/theme-options.php:811
+msgid "This will be the default font for all H4 tags of your website."
+msgstr ""
+
+#: ../inc/theme-options.php:824
+msgid "H5"
+msgstr ""
+
+#: ../inc/theme-options.php:825
+msgid "This will be the default font for all H5 tags of your website."
+msgstr ""
+
+#: ../inc/theme-options.php:838
+msgid "H6"
+msgstr ""
+
+#: ../inc/theme-options.php:839
+msgid "This will be the default font for all H6 tags of your website."
+msgstr ""
+
+#: ../inc/theme-options.php:856
+msgid "Fonts Selectors"
+msgstr ""
+
+#: ../inc/theme-options.php:863
+msgid "Custom Font"
+msgstr ""
+
+#: ../inc/theme-options.php:864
+msgid "This will be the font that applies to the class selector."
+msgstr ""
+
+#: ../inc/theme-options.php:876
+msgid "CSS Selectors"
+msgstr ""
+
+#: ../inc/theme-options.php:877
+msgid "Add class selectors to apply above font."
+msgstr ""
+
+#: ../inc/theme-options.php:885 ../inc/theme-options.php:892
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/theme-options.php:898
+msgid "CSS Code"
+msgstr ""
+
+#: ../inc/theme-options.php:899
+msgid "Advanced CSS Options. You can paste your custom CSS Code here."
+msgstr ""
+
+#: ../page-templates/coming-soon.php:14 ../page-templates/home-01.php:14
+#: ../page-templates/home-02.php:14 ../page-templates/home-03.php:14
+#: ../page-templates/home-04.php:14 ../page-templates/home-05.php:14
+#: ../page-templates/home-06.php:14 ../page-templates/home.php:14
+msgid "Page Canvas For Page Builder"
+msgstr ""
+
+#: ../template-parts/header-layout-2.php:43 ../template-parts/header-layout-2.php:45
+#: ../template-parts/header-layout-2.php:50 ../template-parts/header-layout-2.php:52
+#: ../template-parts/header-layout-3.php:102
+#: ../template-parts/header-layout-3.php:104 ../template-parts/header-layout-4.php:43
+#: ../template-parts/header-layout-4.php:45 ../template-parts/header-layout-4.php:50
+#: ../template-parts/header-layout-4.php:52 ../template-parts/header-layout-5.php:41
+#: ../template-parts/header-layout-5.php:43 ../template-parts/header-layout-6.php:43
+#: ../template-parts/header-layout-6.php:45 ../template-parts/header-layout-6.php:50
+#: ../template-parts/header-layout-6.php:52 ../template-parts/header-layout.php:43
+#: ../template-parts/header-layout.php:45 ../template-parts/header-layout.php:50
+#: ../template-parts/header-layout.php:52
+msgid "Logo"
+msgstr ""
+
+#: ../template-parts/header-layout-2.php:88 ../template-parts/header-layout-3.php:140
+#: ../template-parts/header-layout-4.php:88 ../template-parts/header-layout-5.php:79
+#: ../template-parts/header-layout-6.php:88 ../template-parts/header-layout.php:88
+msgid "View your shopping cart"
+msgstr ""
+
+#: ../template-parts/header-layout-2.php:90 ../template-parts/header-layout-3.php:142
+#: ../template-parts/header-layout-4.php:90 ../template-parts/header-layout-5.php:81
+#: ../template-parts/header-layout-6.php:90 ../template-parts/header-layout.php:90
+#: ../woocommerce/wc-function-hooks.php:43
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""

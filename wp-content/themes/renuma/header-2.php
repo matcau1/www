@@ -1,0 +1,28 @@
+<!doctype html>
+<html class="no-js" <?php language_attributes(); ?>>
+    <head>
+    <meta charset="<?php bloginfo( 'charset' ); ?>">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php
+        $preloader = renuma_get_opt('preloader', true);
+        wp_head();
+    ?>
+    </head>
+    <body id="post-<?php the_ID(); ?>" <?php body_class(); ?>>
+
+    <?php wp_body_open(); ?>
+
+    <?php if (isset($preloader) && $preloader) : ?>
+        <div id="preloader"></div>
+    <?php endif; ?>
+
+    <!-- start main-wrapper section -->
+    <div class="main-wrapper">
+
+        <!-- start content section -->
+        <div class="content">
+
+            <?php 
+                renuma_header_layout_home2();
+            ?>
